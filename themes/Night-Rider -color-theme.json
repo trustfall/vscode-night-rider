@@ -288,6 +288,13 @@
       }
     },
     {
+      "name": "css units",
+      "scope": "constant.length.units.css,meta.property-values.css,styled,meta.var.expr.js,source.js",
+      "settings": {
+        "foreground": "#ffc068"
+      }
+    },
+    {
       "name": "js/ts template-expression",
       "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
@@ -711,7 +718,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#FFDB7F"
+        "foreground": "#ffc068"
       }
     },
     {
