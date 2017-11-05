@@ -2,19 +2,21 @@
   "name": "night-rider",
   "displayName": "Night Rider",
   "description": "A vibrant color theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "kyleerickson",
   "bugs": {
-    "url": "https://github.com/syn3r6y/vscode-night-rider/issues"
+    "url": "https://github.com/trustfall/vscode-night-rider/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/syn3r6y/vscode-night-rider"
+    "url": "https://github.com/trustfall/vscode-night-rider"
   },
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -25,5 +27,9 @@
     ]
   },
   "icon": "icon.png",
-  "keywords": ["theme", "purple", "night rider"]
+  "keywords": [
+    "theme",
+    "purple",
+    "night rider"
+  ]
 }

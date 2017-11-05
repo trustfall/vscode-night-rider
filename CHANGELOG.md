@@ -1,7 +1,4 @@
-# Change Log
-All notable changes to the "ambience" extension will be documented in this file.
+#Change Log
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release
+##v0.0.3
+Updates css units and jsx properties with slight tint
