@@ -2,7 +2,7 @@
   "name": "night-rider",
   "displayName": "Night Rider",
   "description": "A vibrant color theme for VS Code",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "publisher": "kyleerickson",
   "bugs": {
     "url": "https://github.com/trustfall/vscode-night-rider/issues"
