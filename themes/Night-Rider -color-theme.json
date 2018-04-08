@@ -790,7 +790,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#FFDB7F"
+        "foreground": "#a68ae1"
       }
     },
     {
